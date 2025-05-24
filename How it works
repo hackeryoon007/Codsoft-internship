@@ -1,0 +1,92 @@
+ Flow of the App (Left to Right)
+1. Login & Authentication Screens
+First two frames (leftmost) show a welcome/login screen:
+
+One with a profile avatar, email/username field, and password input.
+
+Both use a glassmorphism effect with blurred backgrounds, enhancing modern appeal.
+
+Buttons are minimal and accessible with rounded corners and soft shadows.
+
+2. Main App Flow Begins
+Home Screen:
+
+Displays account balance and quick action buttons (likely for transfer, deposit, etc.).
+
+Tab bar at the bottom includes icons for navigation.
+
+GPT Screen:
+
+Probably a chatbot or AI assistant integration.
+
+A subtle background with a prompt input in center.
+
+Investment Planning Screen:
+
+Shows multiple financial instruments with icons (stocks, crypto, mutual funds).
+
+Each card is cleanly color-coded for distinction.
+
+Financial Data Representation Screen:
+
+Rich with data charts, bar graphs, and line plots.
+
+Likely for real-time tracking of assets, gains, or spending trends.
+
+3. Right Cluster – Utility and Expansion Screens
+These are shown in a vertical stack on the right:
+
+Notepad Screen:
+
+A small, tidy section for writing down thoughts or personal finance notes.
+
+Goals Screen (Completed + In Progress):
+
+Task-style layout with progress bars and categories.
+
+Organized to separate future goals from those already achieved.
+
+Bank Integration Screens:
+
+Multiple cards showing different linked bank accounts.
+
+Each card shows account number, bank logo, and balance.
+
+Notification Screen:
+
+Neatly structured notification cards.
+
+Icons suggest categories like reminders, warnings, or updates.
+
+Profile Screen:
+
+Includes user avatar, settings list (account, security, preferences).
+
+Cleanly laid out with intuitive navigation.
+
+🔧 How It Works – User Journey Logic
+Let’s walk through a typical use case of the app, based on your design:
+
+User logs in through the elegant login screen.
+
+Redirected to Home Screen, which gives a dashboard of current finances.
+
+User can then:
+
+Consult the GPT Assistant for suggestions.
+
+Go to Investment Planning to explore and plan assets.
+
+View deep Financial Graphs and insights.
+
+Set and monitor Goals — both current and completed.
+
+Check Notifications about account activities.
+
+Manage settings through the Profile Page.
+
+Use the Notepad to jot down ideas or reminders.
+
+Seamlessly view details of all linked bank accounts.
+
+The navbar component at the bottom ensures smooth navigation, with uniform icons across all screens. Every screen maintains consistency in theme, color palette, and typography (likely Montserrat or similar).
